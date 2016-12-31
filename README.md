@@ -15,6 +15,7 @@
   ![image](https://github.com/feida/zhihu/blob/master/Component/src/sideBar.png)
   * 内容详细页
   ![image](https://github.com/feida/zhihu/blob/master/Component/src/detail.png)
+  
 # 跑起来
  * 配置好android环境
  * clone本项目
