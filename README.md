@@ -10,11 +10,11 @@
   
 # 安卓打包生成apk 效果如下图所示：  
   * 首页
-  ![image](https://github.com/feida/zhihu/blob/master/Component/src/%E9%A6%96%E9%A1%B5.png)
+  ![image](https://github.com/feida/zhihu/blob/master/Component/src/home.png)
   * 侧边栏
-  ![image](https://github.com/feida/zhihu/blob/master/Component/src/%E4%BE%A7%E8%BE%B9%E6%A0%8F.png)
+  ![image](https://github.com/feida/zhihu/blob/master/Component/src/sideBar.png)
   * 内容详细页
-  ![image](https://github.com/feida/zhihu/blob/master/Component/src/%E5%86%85%E5%AE%B9%E8%AF%A6%E7%BB%86%E9%A1%B5.png)
+  ![image](https://github.com/feida/zhihu/blob/master/Component/src/detail.png)
 # 跑起来
  * 配置好android环境
  * clone本项目
